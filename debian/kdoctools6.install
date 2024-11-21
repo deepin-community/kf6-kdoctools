@@ -1,0 +1,13 @@
+usr/bin/checkXML6
+usr/bin/meinproc6
+usr/share/doc/HTML/*/kdoctools6-common/
+usr/share/kf6/kdoctools/
+usr/share/locale/*/*/kdoctools6.mo
+usr/share/man/*/man1/checkXML6.1
+usr/share/man/*/man1/meinproc6.1
+usr/share/man/*/man7/kf6options.7
+usr/share/man/*/man7/qt6options.7
+usr/share/man/man1/checkXML6.1
+usr/share/man/man1/meinproc6.1
+usr/share/man/man7/kf6options.7
+usr/share/man/man7/qt6options.7
